@@ -1,0 +1,292 @@
+Alachua,	5.85
+Altamonte Springs,	6.79
+Altha,	1.46
+Apalachicola,	2.38
+Apopka,	6.8
+Arcadia,	6.71
+Astatula,	2.79
+Atlantic Beach,	5.69
+Atlantis,	0.58
+Auburndale,	13.17
+Aventura,	11.5
+Bal Harbour Village,	5.9
+Bartow,	12.53
+Bay Harbor Islands,	2.43
+Belleair,	6.11
+Belleair Beach,	4.55
+Belleair Bluffs,	7.72
+Belle Glade,	11.89
+Belle Isle,	5.55
+Belleview,	9.63
+Biscayne Park,	2.27
+Blountstown,	3.52
+Boca Raton,	6.29
+Bonifay,	3.25
+Bowling Green,	5.42
+Boynton Beach,	9.69
+Bradenton,	9.31
+Bradenton Beach,	9.64
+Brooksville,	13.71
+Bunnell,	11.58
+Cape Coral,	4.7
+Carrabelle,	1.42
+Casselberry,	9.21
+Cedar Key,	11.4
+Center Hill,	4.18
+Chattahoochee,	6.51
+Chiefland,	20.1
+Chipley,	9.18
+Clearwater,	9.16
+Clermont,	5.53
+Clewiston,	9.32
+Cocoa,		19.07
+Cocoa Beach,	16.13
+Coconut Creek,	6.33
+Cooper City,	4.85
+Coral Gables,	9.73
+Coral Springs,	4.88
+Crescent City,	13.44
+Crestview,	10.37
+Cross City,	4.89
+Cutler Bay,	9.48
+Dade City,	12.2
+Dania,	11.16
+Davenport,	4.31
+Davie,	8.1
+Daytona Beach,	14.83
+Daytona Beach Shores,	9.6
+Deerfield Beach,	7.29
+De Funiak Springs,	12.67
+Deland,	10.3
+Delray Beach,	10.99
+Doral,	10.32
+Dunedin,	5.59
+Dunnellon,	3.85
+Eatonville,	13.1
+Edgewater,	5.38
+Edgewood,	5.64
+El Portal,	7.3
+Eustis,	7.32
+Fellsmere,	4.38
+Fernandina Beach,	6.35
+Flagler Beach,	6.75
+Florida City,	23.94
+Fort Lauderdale,	13.49
+Fort Myers,	9.64
+Fort Pierce,	13.15
+Fort Walton Beach,	8.18
+Fruitland Park,	9.55
+Gainesville,	9.54
+Golden Beach,	2.1
+Graceville,	4.72
+Greenacres City,	7.38
+Green Cove Springs,	8.39
+Gretna,	5.03
+Groveland,	3.21
+Gulf Breeze,	4.94
+Gulfport,	10.23
+Gulf Stream,	5.96
+Haines City,	7.39
+Hallandale,	11.22
+Havana,	6.45
+Hialeah,	6.87
+Hialeah Gardens,	8.52
+Highland Beach,	2.42
+High Springs,	7.17
+Hillsboro Beach,	3.2
+Holly Hill,	11.86
+Hollywood,	11.51
+Holmes Beach,	7.71
+Homestead,	13.6
+Howey-in-the-Hills,	0.88
+Hypoluxo,	3.62
+Indialantic,	5.08
+Indian Creek Village,	2.25
+Indian Harbour Beach,	4.12
+Indian River Shores,	1.06
+Indian Rocks Beach,	7.33
+Indian Shores,	10.14
+Inglis,	8.47
+Interlachen,	12.16
+Jacksonville,	9.49
+Jacksonville Beach,	11.15
+Jasper,	2.94
+Jennings,	4.31
+Juno Beach,	5.22
+Jupiter,	4.64
+Jupiter Inlet Colony,	3.41
+Jupiter Island,	2.4
+Kenneth City,	8.51
+Key Biscayne,	4.5
+Key Colony Beach,	3.43
+Key West,	13.91
+Kissimmee,	11.83
+Lady Lake,	4.68
+Lake Alfred,	6.88
+Lake City,	19.43
+Lake Clarke Shores,	7.05
+Lake Hamilton,	10.28
+Lake Helen,	5.41
+Lakeland,	11.37
+Lake Mary,	4.43
+Lake Park,	21.85
+Lake Placid,	10.18
+Lake Wales,	7.05
+Lake Worth,	12.26
+Lantana,	10.32
+Largo,	8.93
+Lauderdale-by-the-Sea,	5.6
+Lauderdale Lakes,	11.98
+Lauderhill,	10.21
+Leesburg,	11.98
+Lighthouse Point,	6.35
+Live Oak,	10.78
+Longboat Key,	3.55
+Longwood,	7.59
+Lynn Haven,	6.56
+Madeira Beach,	10.36
+Madison,	16.47
+Maitland,	5.76
+Manalapan,	11.51
+Mangonia Park,	32.59
+Marco Island,	2.68
+Margate,	4.58
+Marianna,	7.93
+Mascotte,	6.98
+Medley,	52.93
+Melbourne,	10.47
+Melbourne Beach,	3.56
+Melbourne Village,	5.65
+Mexico Beach,	8.42
+Miami,	13.12
+Miami Beach,	21.9
+Miami Gardens,	10.31
+Miami Lakes,	5.17
+Miami Shores,	11.16
+Miami Springs,	6.58
+Milton,	7.85
+Minneola,	3.73
+Miramar,	5.6
+Monticello,	4.13
+Mount Dora,	8.03
+Naples,	5.64
+Neptune Beach,	6.57
+New Port Richey,	9.98
+New Smyrna Beach,	10.12
+Niceville,	3.24
+North Bay Village,	6.02
+North Lauderdale,	6.52
+North Miami,	11.47
+North Miami Beach,	10.53
+North Palm Beach,	4.2
+North Port,	4.13
+North Redington Beach,	4.45
+Oakland,	6.25
+Oakland Park,	12.16
+Ocala,	12.13
+Ocean Ridge,	8.14
+Ocoee,	8.96
+Okeechobee,	11.12
+Oldsmar,	6.74
+Opa Locka,	21.62
+Orange City,	17.2
+Orange Park,	7.24
+Orlando,	15.28
+Ormond Beach,	7.36
+Oviedo,	3.55
+Pahokee,	6.49
+Palatka,	15.36
+Palm Bay,	5.77
+Palm Beach,	4.51
+Palm Beach Gardens,	6.68
+Palm Beach Shores,	6.15
+Palmetto,	8.76
+Palmetto Bay,	7.96
+Palm Springs,	13.43
+Panama City,	13.97
+Panama City Beach,	22.75
+Parker,	6.63
+Parkland,	2.06
+Pembroke Park,	16.99
+Pembroke Pines,	5.61
+Pensacola,	13.27
+Perry,	7.69
+Pinellas Park,	11.96
+Plantation,	8.5
+Plant City,	8.58
+Pompano Beach,	12.87
+Ponce Inlet,	3.9
+Port Orange,	5.21
+Port Richey,	19.28
+Port St. Joe,	3.44
+Port St. Lucie,	4.07
+Punta Gorda,	3.42
+Quincy,	13.75
+Redington Beaches,	5.39
+Riviera Beach,	12.41
+Rockledge,	5.45
+Royal Palm Beach,	6.21
+Safety Harbor,	4.16
+Sanford,	12.03
+Sanibel,	3.41
+Sarasota,	12.53
+Satellite Beach,	4.21
+Sea Ranch Lakes,	3.76
+Sebastian,	5.85
+Sebring,	9.66
+Seminole,	6.61
+Sewall's Point,	2.75
+Shalimar,	3.79
+Sneads,	3.18
+South Bay,	4.56
+South Daytona,	9.09
+South Miami,	15.39
+South Palm Beach,	1.67
+South Pasadena,	6.71
+Southwest Ranches,	4.8
+Springfield,	9.03
+Starke,	9.3
+St. Augustine,	14.34
+St. Augustine Beach,	6.29
+St. Cloud,	6.14
+St. Pete Beach,	8.04
+St. Petersburg,	11.86
+Stuart,	8.52
+Sunny Isles Beach,	4.62
+Sunrise,	7.94
+Surfside,	5.6
+Sweetwater,	10.28
+Tallahassee,	11
+Tamarac,	5.66
+Tampa,	6.93
+Tarpon Springs,	6.16
+Tavares,	4.69
+Temple Terrace,	5.82
+Titusville,	9.3
+Treasure Island,	8.44
+Trenton,	4.33
+Umatilla,	5.13
+Valparaiso,	2.17
+Venice,	4.35
+Vero Beach,	8.27
+Village of Pinecrest,	8.12
+Virginia Gardens,	1.95
+Waldo,	11.76
+Wauchula,	6.72
+Welaka,	1.69
+Wellington,	5.49
+West Melbourne,	6.62
+West Miami,	5.3
+Weston,	2.15
+West Palm Beach,	12.18
+West Park,	9.53
+White Springs,	4.11
+Wildwood,	4.22
+Williston,	8.87
+Wilton Manors,	11.23
+Windermere,	2.98
+Winter Garden,	8.23
+Winter Haven,	11.84
+Winter Park,	8.69
+Winter Springs,	2.33
+Zephyrhills,	16.08
